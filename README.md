@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Hi there 👋
+I'm Lukas, PhD student at University of Bonn in the PhenoRob project.
+
+🔭 I’m currently working on generating images of future plant phenotypes with GANs. 🌱
 
 <!--
 **luked12/luked12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
